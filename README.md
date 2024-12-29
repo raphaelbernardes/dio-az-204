@@ -6,3 +6,7 @@ Fiz o commit atraves da aula para aprender a subir os dados via git para o githu
 _________________________________________________________________________
 
 Agora fiz a alteração pelo editor de codigo integrado no GitHub... Que por sinal é sensacional!!!!
+
+------------------------------------------------------------------------
+
+Versão baixada localmente e não mesclada
